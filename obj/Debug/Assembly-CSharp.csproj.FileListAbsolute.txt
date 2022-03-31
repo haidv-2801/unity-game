@@ -1,0 +1,969 @@
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\Assembly-CSharp.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\mscorlib.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\netstandard.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\PsdPlugin.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.AppContext.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Collections.Concurrent.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Collections.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Collections.NonGeneric.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Collections.Specialized.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.ComponentModel.Composition.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.ComponentModel.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Console.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Core.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Data.Common.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Data.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Diagnostics.Debug.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Diagnostics.Process.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Diagnostics.Tools.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Diagnostics.Tracing.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Drawing.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Drawing.Primitives.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Dynamic.Runtime.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Globalization.Calendars.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Globalization.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Globalization.Extensions.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.IO.Compression.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.IO.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.IO.FileSystem.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.IO.Pipes.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Linq.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Linq.Expressions.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Linq.Parallel.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Linq.Queryable.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Net.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Net.Http.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Net.NameResolution.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Net.NetworkInformation.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Net.Ping.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Net.Primitives.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Net.Requests.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Net.Security.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Net.Sockets.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Net.WebSockets.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Numerics.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Numerics.Vectors.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.ObjectModel.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Reflection.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Reflection.Extensions.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Reflection.Primitives.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Resources.Reader.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Resources.ResourceManager.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Resources.Writer.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Runtime.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Runtime.Extensions.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Runtime.Handles.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Runtime.InteropServices.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Runtime.Numerics.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Runtime.Serialization.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Security.Claims.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Security.Principal.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Security.SecureString.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.ServiceModel.Web.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Text.Encoding.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Text.RegularExpressions.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Threading.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Threading.Overlapped.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Threading.Tasks.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Threading.Thread.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Threading.ThreadPool.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Threading.Timer.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Transactions.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.ValueTuple.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Web.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Windows.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Xml.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Xml.Linq.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Xml.Serialization.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Xml.XDocument.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Xml.XmlDocument.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Xml.XPath.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\Unity.2D.Animation.Editor.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\Unity.2D.Animation.Runtime.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\Unity.2D.Animation.Triangle.Runtime.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\Unity.2D.Common.Editor.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\Unity.2D.Common.Runtime.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\Unity.2D.Path.Editor.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\Unity.2D.PixelPerfect.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\Unity.2D.PixelPerfect.Editor.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\Unity.2D.Psdimporter.Editor.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\Unity.2D.Sprite.Editor.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\Unity.2D.SpriteShape.Editor.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\Unity.2D.SpriteShape.Runtime.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\Unity.2D.Tilemap.Editor.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\Unity.InternalAPIEditorBridge.001.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\Unity.InternalAPIEngineBridge.001.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\Unity.Mathematics.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\Unity.Mathematics.Editor.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\Unity.Rider.Editor.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\Unity.TextMeshPro.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\Unity.Timeline.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\Unity.Timeline.Editor.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\Unity.VSCode.Editor.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEditor.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEditor.UI.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.AIModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.AndroidJNIModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.ARModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.AudioModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.ClothModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.CoreModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.DSPGraphModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.GridModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.InputLegacyModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.InputModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.SubsystemsModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.TLSModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.UI.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.UIModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.UNETModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.VFXModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.VideoModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.VRModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.WindModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.XRModule.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\Unity.CompilationPipeline.Common.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\Unity.Cecil.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\ExCSS.Unity.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEditor.TestRunner.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\Unity.CecilTools.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.AIModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.ARModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.AndroidJNIModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.AudioModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.ClothModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.CoreModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.DSPGraphModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.GridModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.InputModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.InputLegacyModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.SubsystemsModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.TLSModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.UIModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.UNETModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.VFXModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.VRModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.VideoModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.WindModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.XRModule.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEditor.xml
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\Unity.Timeline.Editor.pdb
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\Unity.2D.Animation.Runtime.pdb
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\Unity.2D.PixelPerfect.Editor.pdb
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\Unity.VSCode.Editor.pdb
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\Unity.2D.SpriteShape.Editor.pdb
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\Unity.2D.Path.Editor.pdb
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.UI.pdb
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\Unity.Timeline.pdb
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\Unity.2D.Animation.Triangle.Runtime.pdb
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\PsdPlugin.pdb
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\Unity.Rider.Editor.pdb
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\Unity.Mathematics.pdb
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\Unity.2D.Psdimporter.Editor.pdb
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\Unity.InternalAPIEngineBridge.001.pdb
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\Unity.2D.Sprite.Editor.pdb
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\Unity.2D.Common.Runtime.pdb
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\Unity.2D.Tilemap.Editor.pdb
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\Unity.2D.SpriteShape.Runtime.pdb
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\Unity.2D.PixelPerfect.pdb
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\Unity.2D.Animation.Editor.pdb
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\Unity.Mathematics.Editor.pdb
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\Unity.TextMeshPro.pdb
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\Unity.2D.Common.Editor.pdb
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\Unity.InternalAPIEditorBridge.001.pdb
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEditor.UI.pdb
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEditor.TestRunner.pdb
+D:\nam3ki2\gameunity\Projects\GratheringMan\Temp\bin\Debug\UnityEngine.TestRunner.pdb
+D:\nam3ki2\gameunity\Projects\GratheringMan\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\nam3ki2\gameunity\Projects\GratheringMan\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+D:\nam3ki2\gameunity\Projects\GratheringMan\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+D:\nam3ki2\gameunity\Projects\GratheringMan\obj\Debug\Assembly-CSharp.dll
+D:\nam3ki2\gameunity\Projects\GratheringMan\obj\Debug\Assembly-CSharp.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Assembly-CSharp.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Cinemachine.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\com.unity.cinemachine.editor.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\mscorlib.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\netstandard.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\PsdPlugin.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.AppContext.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Collections.Concurrent.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Collections.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Collections.NonGeneric.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Collections.Specialized.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.ComponentModel.Composition.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.ComponentModel.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Console.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Core.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Data.Common.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Data.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Diagnostics.Debug.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Diagnostics.Process.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Diagnostics.Tools.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Diagnostics.Tracing.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Drawing.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Drawing.Primitives.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Dynamic.Runtime.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Globalization.Calendars.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Globalization.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Globalization.Extensions.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.IO.Compression.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.IO.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.IO.FileSystem.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.IO.Pipes.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Linq.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Linq.Expressions.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Linq.Parallel.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Linq.Queryable.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Net.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Net.Http.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Net.NameResolution.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Net.NetworkInformation.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Net.Ping.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Net.Primitives.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Net.Requests.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Net.Security.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Net.Sockets.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Net.WebSockets.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Numerics.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Numerics.Vectors.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.ObjectModel.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Reflection.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Reflection.Extensions.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Reflection.Primitives.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Resources.Reader.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Resources.ResourceManager.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Resources.Writer.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Runtime.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Runtime.Extensions.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Runtime.Handles.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Runtime.InteropServices.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Runtime.Numerics.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Runtime.Serialization.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Security.Claims.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Security.Principal.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Security.SecureString.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.ServiceModel.Web.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Text.Encoding.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Text.RegularExpressions.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Threading.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Threading.Overlapped.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Threading.Tasks.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Threading.Thread.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Threading.ThreadPool.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Threading.Timer.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Transactions.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.ValueTuple.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Web.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Windows.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Xml.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Xml.Linq.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Xml.Serialization.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Xml.XDocument.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Xml.XmlDocument.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Xml.XPath.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.2D.Animation.Editor.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.2D.Animation.Runtime.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.2D.Animation.Triangle.Runtime.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.2D.Common.Editor.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.2D.Common.Runtime.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.2D.Path.Editor.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.2D.PixelPerfect.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.2D.PixelPerfect.Editor.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.2D.Psdimporter.Editor.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.2D.Sprite.Editor.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.2D.SpriteShape.Editor.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.2D.SpriteShape.Runtime.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.2D.Tilemap.Editor.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.Connect.Share.Editor.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.EditorCoroutines.Editor.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.InteractiveTutorials.Core.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.InteractiveTutorials.Core.Scripts.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.InternalAPIEditorBridge.001.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.InternalAPIEditorBridgeDev.001.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.InternalAPIEngineBridge.001.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.Mathematics.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.Mathematics.Editor.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.Postprocessing.Editor.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.Postprocessing.Runtime.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.Rider.Editor.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.TextMeshPro.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.Timeline.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.Timeline.Editor.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.VSCode.Editor.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEditor.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEditor.InteractiveTutorialsFramework.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEditor.UI.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.AIModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.AndroidJNIModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.ARModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.AudioModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.ClothModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.CoreModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.DSPGraphModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.GridModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.InputLegacyModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.InputModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.SubsystemsModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.TLSModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.UI.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.UIModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.UNETModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.VFXModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.VideoModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.VRModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.WindModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.XRModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.CompilationPipeline.Common.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.Cecil.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\ExCSS.Unity.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.Settings.Editor.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEditor.TestRunner.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.CecilTools.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEditor.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.AIModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.ARModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.AndroidJNIModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.AudioModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.ClothModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.CoreModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.DSPGraphModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.GridModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.InputModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.InputLegacyModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.SubsystemsModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.TLSModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.UIModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.UNETModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.VFXModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.VRModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.VideoModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.WindModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.XRModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.Timeline.Editor.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Cinemachine.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.2D.Animation.Runtime.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.2D.PixelPerfect.Editor.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.VSCode.Editor.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.Connect.Share.Editor.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.InteractiveTutorials.Core.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.InternalAPIEditorBridgeDev.001.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.2D.SpriteShape.Editor.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.2D.Path.Editor.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.EditorCoroutines.Editor.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.UI.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.Timeline.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.2D.Animation.Triangle.Runtime.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\PsdPlugin.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.Postprocessing.Editor.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.InteractiveTutorials.Core.Scripts.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.Rider.Editor.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.Mathematics.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.2D.Psdimporter.Editor.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.InternalAPIEngineBridge.001.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.2D.Sprite.Editor.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.2D.Common.Runtime.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.Postprocessing.Runtime.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.2D.Tilemap.Editor.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.2D.SpriteShape.Runtime.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.2D.PixelPerfect.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.2D.Animation.Editor.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\com.unity.cinemachine.editor.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEditor.InteractiveTutorialsFramework.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.Mathematics.Editor.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.TextMeshPro.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.2D.Common.Editor.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.InternalAPIEditorBridge.001.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEditor.UI.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\Unity.Settings.Editor.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEditor.TestRunner.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\UnityEngine.TestRunner.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\nam3ki2\gameunity\bouncing-balls-main\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+D:\nam3ki2\gameunity\bouncing-balls-main\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+D:\nam3ki2\gameunity\bouncing-balls-main\obj\Debug\Assembly-CSharp.dll
+D:\nam3ki2\gameunity\bouncing-balls-main\obj\Debug\Assembly-CSharp.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main\Temp\bin\Debug\nunit.framework.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Assembly-CSharp.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Cinemachine.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\com.unity.cinemachine.editor.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\mscorlib.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\netstandard.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\PsdPlugin.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.AppContext.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Collections.Concurrent.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Collections.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Collections.NonGeneric.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Collections.Specialized.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.ComponentModel.Composition.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.ComponentModel.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Console.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Core.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Data.Common.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Data.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Diagnostics.Debug.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Diagnostics.Process.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Diagnostics.Tools.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Diagnostics.Tracing.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Drawing.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Drawing.Primitives.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Dynamic.Runtime.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Globalization.Calendars.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Globalization.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Globalization.Extensions.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.IO.Compression.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.IO.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.IO.FileSystem.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.IO.Pipes.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Linq.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Linq.Expressions.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Linq.Parallel.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Linq.Queryable.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Net.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Net.Http.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Net.NameResolution.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Net.NetworkInformation.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Net.Ping.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Net.Primitives.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Net.Requests.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Net.Security.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Net.Sockets.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Net.WebSockets.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Numerics.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Numerics.Vectors.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.ObjectModel.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Reflection.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Reflection.Extensions.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Reflection.Primitives.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Resources.Reader.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Resources.ResourceManager.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Resources.Writer.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Runtime.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Runtime.Extensions.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Runtime.Handles.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Runtime.InteropServices.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Runtime.Numerics.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Runtime.Serialization.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Security.Claims.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Security.Principal.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Security.SecureString.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.ServiceModel.Web.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Text.Encoding.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Text.RegularExpressions.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Threading.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Threading.Overlapped.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Threading.Tasks.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Threading.Thread.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Threading.ThreadPool.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Threading.Timer.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Transactions.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.ValueTuple.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Web.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Windows.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Xml.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Xml.Linq.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Xml.Serialization.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Xml.XDocument.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Xml.XmlDocument.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Xml.XPath.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.2D.Animation.Editor.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.2D.Animation.Runtime.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.2D.Animation.Triangle.Runtime.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.2D.Common.Editor.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.2D.Common.Runtime.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.2D.Path.Editor.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.2D.PixelPerfect.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.2D.PixelPerfect.Editor.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.2D.Psdimporter.Editor.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.2D.Sprite.Editor.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.2D.SpriteShape.Editor.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.2D.SpriteShape.Runtime.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.2D.Tilemap.Editor.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.Connect.Share.Editor.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.EditorCoroutines.Editor.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.InteractiveTutorials.Core.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.InteractiveTutorials.Core.Scripts.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.InternalAPIEditorBridge.001.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.InternalAPIEditorBridgeDev.001.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.InternalAPIEngineBridge.001.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.Mathematics.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.Mathematics.Editor.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.Postprocessing.Editor.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.Postprocessing.Runtime.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.Rider.Editor.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.TextMeshPro.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.Timeline.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.Timeline.Editor.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.VSCode.Editor.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEditor.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEditor.InteractiveTutorialsFramework.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEditor.UI.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.AIModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.AndroidJNIModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.ARModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.AudioModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.ClothModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.CoreModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.DSPGraphModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.GridModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.InputLegacyModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.InputModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.SubsystemsModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.TLSModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.UI.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.UIModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.UNETModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.VFXModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.VideoModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.VRModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.WindModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.XRModule.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.CompilationPipeline.Common.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.Cecil.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\ExCSS.Unity.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.Settings.Editor.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEditor.TestRunner.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.CecilTools.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.AIModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.ARModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.AndroidJNIModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.AudioModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.ClothModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.CoreModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.DSPGraphModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.GridModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.InputModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.InputLegacyModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.SubsystemsModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.TLSModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.UIModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.UNETModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.VFXModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.VRModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.VideoModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.WindModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.XRModule.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEditor.xml
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.Timeline.Editor.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Cinemachine.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.2D.Animation.Runtime.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.2D.PixelPerfect.Editor.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.VSCode.Editor.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.Connect.Share.Editor.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.InteractiveTutorials.Core.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.InternalAPIEditorBridgeDev.001.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.2D.SpriteShape.Editor.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.2D.Path.Editor.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.EditorCoroutines.Editor.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.UI.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.Timeline.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.2D.Animation.Triangle.Runtime.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\PsdPlugin.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.Postprocessing.Editor.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.InteractiveTutorials.Core.Scripts.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.Rider.Editor.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.Mathematics.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.2D.Psdimporter.Editor.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.InternalAPIEngineBridge.001.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.2D.Sprite.Editor.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.2D.Common.Runtime.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.Postprocessing.Runtime.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.2D.Tilemap.Editor.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.2D.SpriteShape.Runtime.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.2D.PixelPerfect.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.2D.Animation.Editor.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\com.unity.cinemachine.editor.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEditor.InteractiveTutorialsFramework.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.Mathematics.Editor.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.TextMeshPro.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.2D.Common.Editor.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.InternalAPIEditorBridge.001.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEditor.UI.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\Unity.Settings.Editor.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEditor.TestRunner.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\Temp\bin\Debug\UnityEngine.TestRunner.pdb
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\obj\Debug\Assembly-CSharp.dll
+D:\nam3ki2\gameunity\bouncing-balls-main - Copy\obj\Debug\Assembly-CSharp.pdb

@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemies
+  - FallDetector
+  - Sound
+  - CheckPoint
+  - Coins
+  - Gate
+  - RemusePanel
+  - water
+  - Bullet
+  - Ground
+  - Potion
+  - DeathZone
+  - Face
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4161831979
+    locked: 0
+  - name: Midground
+    uniqueID: 1555210439
+    locked: 0
+  - name: Foreground
+    uniqueID: 2041569909
+    locked: 0
